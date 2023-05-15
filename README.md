@@ -7,7 +7,6 @@ Na página abaixo, toda navegação ocorre dentro da SPA, saindo apenas para a c
 [Screencast from 15-05-2023 11:06:22.webm](https://github.com/rovedabr/SPA-Universe-v2/assets/118762335/829a312f-ac00-48bb-94f2-31a550bff71e)
 
 ## Tecnologias
-
 - HTML
 - CSS
 - JavaScript
